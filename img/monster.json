@@ -1,0 +1,24 @@
+{
+    "monster": {
+        "list1":{
+            "monster_name": {
+                "name": "name",
+                "file": "filepath"
+            },
+            "monster_1_name": {
+                "name": "name",
+                "file": "filepath"
+            }
+        },
+        "list2":{
+            "monster_name": {
+                "name": "name",
+                "file": "filepath"
+            },
+            "monster_1_name": {
+                "name": "name",
+                "file": "filepath"
+            }
+        }
+    }
+}

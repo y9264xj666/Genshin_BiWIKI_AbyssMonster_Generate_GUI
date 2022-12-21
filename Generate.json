@@ -1,0 +1,26 @@
+{
+    "abyss_version":{
+        "9":{
+            "9-1":{
+                "a_half":{
+                    "string_1":"string",
+                    "position_1":"position",
+                    "monster":{
+                        "monster_name":["monster_1_name", "monster_2_name"],
+                        "monster_count":[1 , 2]
+                    },
+                    "action_3":"string"
+                },
+                "another_half":{
+                    "string_1":"string",
+                    "position_1":"position",
+                    "monster":{
+                        "monster_name":["monster_1_name", "monster_2_name"],
+                        "monster_count":[1 , 2]
+                    },
+                    "action_3":"string"
+                }
+            }
+        }
+    }
+}
